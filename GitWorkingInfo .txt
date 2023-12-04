@@ -1,0 +1,20 @@
+create a folder by which u want to add in git
+Right click in the foder or shit right click (Power Shell will start) it will satart from the current root path
+
+
+git status	get current status of the repository
+
+git add --a	add all file in the the git repo and send to stages
+git commit --m	commit all changes from stages
+git log 	give detail
+
+
+pwd		Present working directory
+ls		Content list whateva in the directory	
+cd		Change Directory
+
+rm - rf.git	Remove all contect of the repo (folder)
+		it means you git repo is not remain git 		this is simple folder
+
+
+git clone	create clone of full website
