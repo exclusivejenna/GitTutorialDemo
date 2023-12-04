@@ -18,3 +18,8 @@ rm - rf.git	Remove all contect of the repo (folder)
 
 
 git clone	create clone of full website
+
+======================================= Practical work in GIT/GITHUB
+
+upload file from git hub site
+pull change in repository from git destop
