@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorAzureCITest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorAzureCITest.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\BLAZOR\\Test_Projects\\BlazorAzureCITest\\BlazorAzureCITest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAzureCITest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAzureCITest.props",
+      "PackagePath": "build\\BlazorAzureCITest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAzureCITest.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAzureCITest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAzureCITest.props",
+      "PackagePath": "buildTransitive\\BlazorAzureCITest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
